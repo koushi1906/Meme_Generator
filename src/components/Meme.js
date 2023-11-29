@@ -38,7 +38,7 @@ const Meme = () => {
             </div>
             <div className="relative">
                 {<img className="pt-4 w-full relative" src={meme.randomImage} alt="meme"/>}
-                <h2 className="text-white absolute top-7 font-mono text-center left-0 text-6xl w-full">{meme.topText}</h2>
+                <h2 className="text-white absolute top-7 font-mono text-center font-bold left-0 text-6xl w-full">{meme.topText}</h2>
                 <h2 className="text-white absolute w-full font-mono bottom-0 text-center text-6xl">{meme.bottomText}</h2>
             </div>
         </form>

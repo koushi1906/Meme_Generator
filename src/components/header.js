@@ -15,7 +15,7 @@ const Header = () => {
           </div>
         </div>
         <div>
-          <p className="text-xl font-semibold">React Course - Project 3</p>
+          <p className="text-xl font-semibold">React - Project</p>
         </div>
       </div>
     </div>
